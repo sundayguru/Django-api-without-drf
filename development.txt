@@ -1,0 +1,5 @@
+-r requirements.txt
+
+factory-boy==3.2.1
+isort==5.10.1
+black==22.1.0
